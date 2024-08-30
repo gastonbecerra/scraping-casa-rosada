@@ -192,3 +192,5 @@ head(substring(discursos_contenido, 1, 100)) # muestra los primeros 50 caractere
 ```
 
 Lo conseguimos!
+
+Quieren otro ejemplo, con otro caso? Chusmeen por acá: <https://bookdown.org/gaston_becerra/curso-intro-r/construccion-de-datasets-borrador.html#web-scraping>
