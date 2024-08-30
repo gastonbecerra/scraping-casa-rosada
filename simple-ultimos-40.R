@@ -1,6 +1,7 @@
 # vamos a "scrapear" (recuperar) contenido del sitio web de Casa Rosada
 
-# este ejemplo no considerado el paginado. solo toma las ultimas noticias de https://www.casarosada.gob.ar/informacion/discursos
+# este ejemplo no considerado el paginado. 
+# solo toma las ultimas noticias de https://www.casarosada.gob.ar/informacion/discursos
 
 # si es la primera vez que corren codigo R seguro tengan que instalar librerias
 # install.packages(c("tidyverse","foreach","rvest","xml2"))
