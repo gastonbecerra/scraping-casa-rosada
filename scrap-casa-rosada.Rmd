@@ -193,4 +193,6 @@ head(substring(discursos_contenido, 1, 100)) # muestra los primeros 50 caractere
 
 Lo conseguimos!
 
+Ahora sólo nos queda empezar a hacer *text-mining***...** pero eso es tema para otro tutorial.
+
 Quieren otro ejemplo, con otro caso? Chusmeen por acá: <https://bookdown.org/gaston_becerra/curso-intro-r/construccion-de-datasets-borrador.html#web-scraping>
